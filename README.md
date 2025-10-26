@@ -22,7 +22,6 @@ Une application RESTful Spring Boot pour la gestion de comptes bancaires avec su
 - [Documentation API](#-documentation-api)
 - [Structure du projet](#-structure-du-projet)
 - [Tests](#-tests)
-- [Licence](#-licence)
 
 ## ✨ Fonctionnalités
 

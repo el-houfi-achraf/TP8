@@ -7,7 +7,7 @@
 
 Une application RESTful Spring Boot pour la gestion de comptes bancaires avec support JSON et XML, base de données H2 en mémoire et documentation Swagger/OpenAPI.
 
-![Démonstration](../assets/demo.gif)
+![Démonstration](./assets/demo.gif)
 
 ## 📋 Table des matières
 

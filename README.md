@@ -1,4 +1,4 @@
-# 🏦 API REST de Gestion de Comptes Bancaires
+#  API REST de Gestion de Comptes Bancaires
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
